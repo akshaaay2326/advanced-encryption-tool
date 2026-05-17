@@ -47,3 +47,8 @@ python encryption_tool.py
 ## Disclaimer
 This tool is for educational purposes only.
 Use responsibly and only on files you own or have permission to encrypt.
+
+#Output
+
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/064858be-c0c5-4595-a58e-deab283b606b" />
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/87b03ea6-ec48-4e6b-b3b8-edda066932e7" />
